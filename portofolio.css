@@ -153,6 +153,7 @@ span {
   .text-3 {
     font-size: 18px;
   }
+  
 /*   Certificate */
   .h4-c {
     font-size: 17px;
@@ -164,5 +165,10 @@ span {
   
   .h6-c {
     font-size: 12px;
+  }
+
+/*   Contact */
+  .tc {
+    font-size: 25px;
   }
 }
