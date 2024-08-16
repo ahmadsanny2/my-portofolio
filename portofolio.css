@@ -141,15 +141,28 @@ span {
 }
 
 @media screen and (max-width: 576px) {
+/*   Hero Section */
+  .text-1 {
+    font-size: 15px;
+  }
+  
+  .text-2 {
+    font-size: 20px;
+  }
+  
+  .text-3 {
+    font-size: 17px;
+  }
+/*   Certificate */
   .h4-c {
-    font-size: 18px;
+    font-size: 17px;
   }
   
   .h5-c {
-    font-size: 16px;
+    font-size: 15px;
   }
   
   .h6-c {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
