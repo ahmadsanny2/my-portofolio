@@ -120,3 +120,114 @@ span {
 .bi-github {
   text-decoration: none;
 }
+
+@media screen and (min-width: 769px) and (max-width: 992px) {
+  /* Header */
+  .header {
+    margin-top: 15px;
+  }
+
+  /* Hero Section */
+  .hero {
+    margin-top: 30px;
+  }
+
+  .hero-text {
+  }
+
+  .text-2 {
+    font-size: 45px;
+  }
+
+  .text-3 {
+  }
+}
+
+@media screen and (min-width: 577px) and (max-width: 768px) {
+  /* Header */
+  .header {
+    margin-top: 15px;
+  }
+
+  /* Hero Section */
+  .hero {
+    margin-top: 30px;
+  }
+
+  .hero-text {
+  }
+
+  .text-2 {
+    font-size: 33px;
+  }
+
+  .text-3 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (min-width: 421px) and (max-width: 576px) {
+  /* Header */
+  .header {
+    margin-top: 10px;
+  }
+
+  /* Hero Section */
+  .hero {
+    margin-top: 30px;
+  }
+
+  .hero-text {
+  }
+
+  .text-1 {
+    font-size: 18px;
+  }
+
+  .text-2 {
+    font-size: 22px;
+  }
+
+  .text-3 {
+    font-size: 20px;
+  }
+
+  .foto {
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 420px) {
+  body {
+    background-color: #008fd7;
+  }
+
+  /* Header */
+  .header {
+    margin-top: 10px;
+  }
+
+  /* Hero Section */
+  .hero {
+    margin-top: 15px;
+  }
+
+  .hero-text {
+  }
+
+  .text-1 {
+    font-size: 15px;
+  }
+
+  .text-2 {
+    font-size: 21px;
+  }
+
+  .text-3 {
+    font-size: 17px;
+  }
+}
+
+/* Skills */
+.h4-c {
+  font-size: 20px;
+}
