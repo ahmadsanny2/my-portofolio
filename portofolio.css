@@ -8,7 +8,7 @@
 *,
 html {
   padding: 0;
-  margin: 0 0 0 0;
+  margin: 0;
 }
 
 body {
@@ -143,15 +143,15 @@ span {
 @media screen and (max-width: 576px) {
 /*   Hero Section */
   .text-1 {
-    font-size: 15px;
+    font-size: 16px;
   }
   
   .text-2 {
-    font-size: 20px;
+    font-size: 22px;
   }
   
   .text-3 {
-    font-size: 17px;
+    font-size: 18px;
   }
 /*   Certificate */
   .h4-c {
