@@ -120,6 +120,7 @@ span {
 .bi-github {
   text-decoration: none;
 }
+<<<<<<< HEAD
 
 @media screen and (max-width: 1200px) {
   .h4-c {
@@ -145,3 +146,5 @@ span {
     font-size: 17px;
   }
 }
+=======
+>>>>>>> 26a3bada03e258cd0afcf8ffa911a3c04ad07b37
