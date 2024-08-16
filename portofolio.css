@@ -147,6 +147,10 @@ span {
 }
 
 @media screen and (min-width: 577px) and (max-width: 768px) {
+  body {
+    background-color: blue;
+  }
+  
   /* Header */
   .header {
     margin-top: 15px;
