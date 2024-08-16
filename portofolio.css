@@ -122,12 +122,22 @@ span {
 }
 
 @media screen and (max-width: 1200px) {
+  /* Certificate */
   .h4-c {
     font-size: 20px;
+  }
+
+  .h5-c {
+    font-size: 18px;
+  }
+
+  .h6-c {
+    font-size: 14px;
   }
 }
 
 @media screen and (max-width: 992px) {
+  /* Hero Section */
   .hero {
     margin-top: 1em;
   }
