@@ -120,3 +120,39 @@ span {
 .bi-github {
   text-decoration: none;
 }
+
+@media screen and (max-width: 1200px) {
+  body {
+    background-color: black;
+  }
+
+  .h4-c {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  body {
+    background-color: aqua;
+  }
+
+  .hero {
+    margin-top: 1em;
+  }
+
+  .hero-text {
+    margin-top: 2em;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    background-color: blue;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .h4-c {
+    font-size: 17px;
+  }
+}
