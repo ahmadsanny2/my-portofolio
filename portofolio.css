@@ -120,6 +120,7 @@ span {
 .bi-github {
   text-decoration: none;
 }
+<<<<<<< HEAD
 
 @media screen and (min-width: 769px) and (max-width: 992px) {
   /* Header */
@@ -231,3 +232,5 @@ span {
 .h4-c {
   font-size: 20px;
 }
+=======
+>>>>>>> 6692a67ca4e29e3130426b44812223bdbe7cc763
