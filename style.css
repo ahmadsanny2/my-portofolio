@@ -160,6 +160,47 @@ span {
   body {
     background-color: orange;
   }
+
+  /* Hero Section */
+  .text-1 {
+    font-size: 16px;
+  }
+
+  .text-2 {
+    font-size: 22px;
+  }
+
+  .text-3 {
+    font-size: 18px;
+  }
+
+  /* Skills */
+  #skills {
+    margin-top: 5em;
+  }
+
+  /* Certificate */
+  .h4-c {
+    font-size: 15px;
+  }
+
+  .h5-c {
+    font-size: 13px;
+  }
+
+  .p-c {
+    font-size: 10px;
+  }
+
+  /* Contact */
+  .tc {
+    font-size: 19px;
+  }
+
+  .image-contact {
+    width: 200px;
+    height: 200px;
+  }
 }
 
 @media screen and (max-width: 400px) {
