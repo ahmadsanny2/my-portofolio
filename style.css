@@ -137,9 +137,7 @@ span {
 }
 
 @media screen and (max-width: 992px) {
-  body {
-    background-color: green;
-  }
+
   /* Hero Section */
   .hero {
     margin-top: 1em;
@@ -151,15 +149,10 @@ span {
 }
 
 @media screen and (max-width: 768px) {
-  body {
-    background-color: orangered;
-  }
+ 
 }
 
 @media screen and (max-width: 576px) {
-  body {
-    background-color: orange;
-  }
 
   /* Hero Section */
   .text-1 {
@@ -204,9 +197,7 @@ span {
 }
 
 @media screen and (max-width: 400px) {
-  body {
-    background-color: blue;
-  }
+  
   /* Hero Section */
   .text-1 {
     font-size: 16px;
