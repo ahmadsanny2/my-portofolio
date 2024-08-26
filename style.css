@@ -30,6 +30,10 @@ body {
 }
 
 /* Hero Section */
+#home {
+  height: 100vh;
+}
+
 .hero {
   margin-top: 7rem;
 }
@@ -50,9 +54,7 @@ span {
 }
 
 /* About */
-.about {
-  margin-top: 10rem;
-}
+
 
 /* Skills */
 .img-s1 {
